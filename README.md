@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Senior Software Engineer passionate and motivated by technology and innovation. 
+
+In last years I've been actuating like Softwate Architect and Technical Leader.
+
 - 🔭 I’m currently working on financial market handling a lot of requests per second.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ifsantana/)
 
