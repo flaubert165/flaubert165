@@ -14,7 +14,7 @@ In last years I've been working as Softwate Architect and Technical Leader.
 
 ![Lauan GitHub stats](https://github-readme-stats.vercel.app/api?username=flaubert165&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaubert165&layout=compact&theme=tokyonight)](https://github.com/flaubert165)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaubert165&layout=compact&theme=tokyonight&count_private=true)](https://github.com/flaubert165)
 
 
 <!--
