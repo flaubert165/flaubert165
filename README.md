@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaubert165@gmail.com)](mailto:flaubert165@gmail.com)
+
 I am a Senior Software Engineer passionate and motivated by technology and innovation. 
 
 In last years I've been working as Softwate Architect and Technical Leader.
