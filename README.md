@@ -12,6 +12,10 @@ In last years I've been working as Softwate Architect and Technical Leader.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ifsantana/)
 
 
+![Lauan GitHub stats](https://github-readme-stats.vercel.app/api?username=flaubert165&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaubert165&layout=compact&theme=tokyonight)](https://github.com/flaubert165)
+
+
 <!--
 **flaubert165/flaubert165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
