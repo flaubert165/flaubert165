@@ -12,11 +12,11 @@ In last years I've been working as Softwate Architect and Technical Leader.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ifsantana/)
 
 
-![Lauan GitHub stats](https://github-readme-stats.vercel.app/api?username=ifsantana&count_private=true&show_icons=true&theme=tokyonight)
+![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=ifsantana&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifsantana&count_private=true&layout=compact&theme=tokyonight&hide=javascript,c,c%2B%2B,objective-c,typescript,makefile,css,html,batchfile,shell,livescript,python,smalltalk,powershell,tsql)](https://github.com/flaubert165)
 
-![Top Langss](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana)
+[![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana)
 
 <!--
 **flaubert165/flaubert165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
