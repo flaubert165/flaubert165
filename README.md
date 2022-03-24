@@ -11,12 +11,12 @@ In last years I've been working as Softwate Architect and Technical Leader.
 - 🌱 I’m currently studing about Distributed Computing (I really love distributed computing and it's challenges)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ifsantana/)
 
+![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana)
 
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=ifsantana&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifsantana&count_private=true&layout=compact&theme=tokyonight&hide=javascript,c,c%2B%2B,objective-c,typescript,makefile,css,html,batchfile,shell,livescript,python,smalltalk,powershell,tsql)](https://github.com/ifsantana)
 
-![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana)
 
 <!--
 **flaubert165/flaubert165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
