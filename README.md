@@ -11,7 +11,7 @@ In last years I've been working as Softwate Architect and Technical Leader.
 - 🌱 I’m currently studing about Distributed Computing (I really love distributed computing and it's challenges)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ifsantana/)
 
-![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana)
+![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ifsantana&show-avatar=true)
 
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=ifsantana&count_private=true&show_icons=true&theme=tokyonight)
 
